@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
   const startBtn = document.getElementById("start-btn");
   const nextBtn = document.getElementById("next-btn");
-  const restartBtn = document.getElementById("restart-btn");
+  const restartBtn = document.getElementById("restart-btn"); 
 
   // FIX 1: Changed "question-container" to "quiz-container" to match your HTML
   const questionContainer = document.getElementById("quiz-container"); 
