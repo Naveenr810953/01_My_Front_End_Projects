@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", () =>{
+document.addEventListener("DOMContentLoaded", () =>{ 
 
     const cityInput = document.getElementById("city-input");
     const getweatherBtn = document.getElementById("get-weather-btn");
